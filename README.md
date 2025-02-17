@@ -1,15 +1,10 @@
-# scam
-[![chrome webstore](https://img.shields.io/chrome-web-store/v/pjjmnjpdamiodphjhekmbdgnbegndmkc?style=flat-square)](https://chrome.google.com/webstore/detail/pjjmnjpdamiodphjhekmbdgnbegndmkc)
-[![firefox addons](https://img.shields.io/amo/v/scam?style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/scam/)
-[![airbnb eslint style](https://img.shields.io/static/v1?label=code%20style&message=airbnb&color=success&style=flat-square)](https://github.com/airbnb/javascript)
-[![mit licensed](https://img.shields.io/static/v1?label=license&message=mit&color=success&style=flat-square)](https://github.com/nihilist/scam/blob/master/LICENSE.md)
+# scam-mv3
 
-**scam** (the **soundcloud account manager**) is a simple account switching extension for [SoundCloud](https://soundcloud.com). it's currently in development – pull requests welcome. new accounts are automatically added every time you log in. you can find them under the username dropdown.
+**scam-mv3** (**soundcloud account manager manifest v3**) is a simple account switching extension for [SoundCloud](https://soundcloud.com). this is a simple fork designed to work with manifest v3. new accounts are automatically added every time you log in. you can find them under the username dropdown. 
 
-you can find it in the Chrome Web Store [**here**](https://chrome.google.com/webstore/detail/pjjmnjpdamiodphjhekmbdgnbegndmkc) or the Firefox addon store [**here**](https://addons.mozilla.org/en-US/firefox/addon/scam/).
+just download the source code and run it as an unpacked extension. i may or may not publish it to the chrome and firefox web stores in the future.
 
-### contributing
-please use `yarn` or your favourite package manager to install the airbnb eslint base after cloning the repo.
+the original version is [here](https://github.com/sad/scam).
 
 <p align="center">
   <img alt="Preview" src="https://i.imgur.com/BKXKIEe.png"/>
