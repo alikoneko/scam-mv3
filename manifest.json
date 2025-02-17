@@ -24,7 +24,7 @@
     }
   ],
   "background": {
-    "service_worker": "service_worker.js",
+    "service_worker": "src/service_worker.js",
     "type": "module"
   },
   "permissions": [
