@@ -24,8 +24,8 @@
     }
   ],
   "background": {
-    "scripts": ["src/background.js"],
-    "persistent": false
+    "service_worker": "service_worker.js",
+    "type": "module"
   },
   "permissions": [
     "cookies"
