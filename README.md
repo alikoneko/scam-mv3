@@ -6,7 +6,7 @@ just download the source code and run it as an unpacked extension. i may or may 
 
 the original version is [here](https://github.com/sad/scam).
 
-let me know of any bugs cuz i kind of lazily did this with chatgpt lol. i just didnt want one of my favorite extensions to stop working on my browser so yeah.
+__let me know of any bugs cuz i kind of lazily did this with chatgpt lol. i just didnt want one of my favorite extensions to stop working on my browser so yeah.__
 
 <p align="center">
   <img alt="Preview" src="https://i.imgur.com/BKXKIEe.png"/>
